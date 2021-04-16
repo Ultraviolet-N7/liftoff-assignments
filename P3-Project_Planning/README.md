@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- P3-Project_Planning/wireframes/login-page.jpeg
+- P3-Project_Planning/wireframes/create-account-page.jpeg
+- P3-Project_Planning/wireframes/dashboard-page.jpeg
+- P3-Project_Planning/wireframes/view-practices-page.jpeg
+- P3-Project_Planning/wireframes/data-model.jpeg
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/he7HD8Er
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Ultraviolet-N7/practice-hub.git
